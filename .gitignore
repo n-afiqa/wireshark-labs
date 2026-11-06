@@ -2,3 +2,5 @@ commit.sh
 .venv
 __pycache__/
 *.py
+local/
+test-folder/
